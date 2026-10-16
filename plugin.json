@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "linkbunny-placement-checker",
+  "version": "1.0.0",
+  "description": "Check public HTML for a backlink's destination, anchor text and nofollow status.",
+  "author": {
+    "name": "Hwee-Boon Yar",
+    "email": "hboon@getlinkbunny.com",
+    "url": "https://getlinkbunny.com/about"
+  },
+  "homepage": "https://getlinkbunny.com/tools/backlink-placement-checker",
+  "repository": "https://github.com/hboon/linkbunny-placement-checker-cursor",
+  "license": "MIT",
+  "keywords": ["backlinks", "nofollow", "HTML", "web development"]
+}
